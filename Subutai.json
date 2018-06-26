@@ -1,6 +1,6 @@
 {
     "name": "${environmentName}",
-    "description": "Jenkins Blueprint",
+    "description": "Apache Blueprint",
 	"version": "1",
          "author": "Alina",
     "containers": [
@@ -60,7 +60,7 @@
           "webContainerName": {
             "description": "Enter the container's hostname",
             "type": "string",
-            "default": "Jenkins",
+            "default": "Apache",
             "validation": "[a-zA-Z0-9]+"
           },
           "webContainerSize": {
