@@ -6,7 +6,7 @@
     "containers": [
         {
             "hostname": "${webContainerName}",
-            "template": "apache@alina4ka113:0.4.2",
+            "template": "Apache2@alina4ka113:0.4.5",
             "peer-criteria": "HTTP-GROUP",
             "size": "${webContainerSize}",
 		
