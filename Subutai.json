@@ -39,7 +39,7 @@
         ]
     },
     "user-variables": {
-        "environmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentName": {
+        "environmentName": {
             "description": "Enter the environment name",
             "type": "string",
             "default": "Apache",
