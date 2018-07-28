@@ -23,7 +23,7 @@
 	"peer-criteria":[{
 		
         "name": "HTTP-GROUP",
-        "max-price": "${maxPeersPrice}"
+        "max-price": ""
         }
  ],
    "ansible-configuration": {
@@ -39,7 +39,7 @@
         ]
     },
     "user-variables": {
-        "environmentName": {
+        "environmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentNameenvironmentName": {
             "description": "Enter the environment name",
             "type": "string",
             "default": "Apache",
